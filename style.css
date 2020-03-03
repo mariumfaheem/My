@@ -1,0 +1,23 @@
+body,
+html { 
+  background: url(makeup.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.navbar{
+	font-size:1rem;
+	border-style: radius;
+	
+	background-image: url(pink.jpg);
+	
+	}
+	
+h1{
+font-size:2rem;	
+}
+
+.buffer{
+	height:50px;
+}
